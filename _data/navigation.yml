@@ -1,7 +1,14 @@
 # main links
 main:
+  - title: "Research"
+    url: /_pages/Research/
   - title: "Members"
     url: /_pages/Members/
+  - title: "News"
+    url: /_pages/News/
+  - title: "Activities"
+    url: /_pages/Activities/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
