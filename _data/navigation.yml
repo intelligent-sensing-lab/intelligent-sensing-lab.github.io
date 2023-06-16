@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Group Members"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    permalink: https://mmistakes.github.io/minimal-mistakes/about/members/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

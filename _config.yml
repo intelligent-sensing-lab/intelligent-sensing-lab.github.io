@@ -40,6 +40,9 @@ atom_feed:
   hide: true
 
 repository : intelligent-sensing-lab/intelligent-sensing-lab.github.io
+
+include: ["_pages"]
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
