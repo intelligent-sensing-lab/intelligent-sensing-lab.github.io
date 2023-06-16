@@ -1,35 +1,74 @@
-## Our Team
+---
+title: " "
+categories:
+  - Post Formats
+tags:
+  - gallery
+  - Post Formats
+  - tiled
+permalink: /_pages/Members/
+feature_row:
+  - image_path: /assets/images/HaomingCai2.jpg
+    url : "https://www.google.com/"
+    btn_label: "Haoming Cai (2022)"
 
-Welcome to our amazing team! We are a group of talented individuals dedicated to bringing you the best content. Get to know each member of our team:
+  - image_path: /assets/images/HaomingCai2.jpg
+    url : "https://www.google.com/"
+    btn_label: "Haoming Cai (2022)"
 
-### John Doe
+  - image_path: /assets/images/HaomingCai2.jpg
+    url : "https://www.google.com/"
+    btn_label: "Haoming Cai (2022)"
 
-![John Doe](path_to_image/john_doe.jpg)
 
-John is our team leader and brings a wealth of experience in web development. He is passionate about creating user-friendly and visually appealing websites.
+  - image_path: /assets/images/HaomingCai2.jpg
+    url : "https://www.google.com/"
+    btn_label: "Haoming Cai (2022)"
 
-Connect with John on [LinkedIn](https://www.linkedin.com/in/johndoe/) or [Twitter](https://twitter.com/johndoe).
+  - image_path: /assets/images/HaomingCai2.jpg
+    url : "https://www.google.com/"
+    btn_label: "Haoming Cai (2022)"
 
-### Jane Smith
+  - image_path: /assets/images/HaomingCai2.jpg
+    url : "https://www.google.com/"
+    btn_label: "Haoming Cai (2022)"
 
-![Jane Smith](path_to_image/jane_smith.jpg)
 
-Jane is our creative designer. She has a keen eye for aesthetics and loves transforming ideas into beautiful designs that captivate and engage users.
+  - image_path: /assets/images/HaomingCai2.jpg
+    url : "https://www.google.com/"
+    btn_label: "Haoming Cai (2022)"
 
-Connect with Jane on [LinkedIn](https://www.linkedin.com/in/janesmith/) or [Dribbble](https://dribbble.com/janesmith).
+  - image_path: /assets/images/HaomingCai2.jpg
+    url : "https://www.google.com/"
+    btn_label: "Haoming Cai (2022)"
 
-### Alex Johnson
+  - image_path: /assets/images/HaomingCai2.jpg
+    url : "https://www.google.com/"
+    btn_label: "Haoming Cai (2022)"
 
-![Alex Johnson](path_to_image/alex_johnson.jpg)
 
-Alex is our content writer. With a passion for storytelling, he crafts compelling narratives that resonate with our audience and deliver valuable insights.
+feature_row2:
+  - image_path: /assets/images/sample.jpg
+    url : "https://www.google.com/"
+    btn_label: "Haoming Cai"
+  - image_path: /assets/images/sample.jpg
+    url : "https://www.google.com/"
+    btn_label: "Haoming Cai"
+  - image_path: /assets/images/sample.jpg
+    url : "https://www.google.com/"
+    btn_label: "Haoming Cai"
+---
 
-Connect with Alex on [LinkedIn](https://www.linkedin.com/in/alexjohnson/) or [Medium](https://medium.com/@alexjohnson).
 
-### Sarah Wilson
+# Grad Students
+{% include feature_row %}
 
-![Sarah Wilson](path_to_image/sarah_wilson.jpg)
+<!-- # Undergraduate Students
+{% include feature_row id="feature_row2" %}
 
-Sarah is our marketing guru. She excels at promoting our brand, building strong relationships with our audience, and driving traffic to our website.
+# Visiting Students -->
 
-Connect with Sarah on [LinkedIn](https://www.linkedin.com/in/sarahwilson/) or [Instagram](https://www.instagram.com/sarahwilson/).
+
+
+
+

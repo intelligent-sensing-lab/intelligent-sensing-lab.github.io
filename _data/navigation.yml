@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Group Members"
-    permalink: https://github.com/intelligent-sensing-lab/intelligent-sensing-lab.github.io/_pages/members/
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Members"
+    url: /_pages/Members/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
