@@ -46,6 +46,9 @@ feature_row:
   - image_path: /assets/images/sachin.jpeg
     url : "https://www.linkedin.com/in/sachin-shah-ai/"
     btn_label: "Sachin Shah (2022)"
+  - image_path: /assets/images/sanjaya.png
+    url : "https://sanjayaherath.me/"
+    btn_label: "Sanjaya Herath (2022)"
 
 
 
