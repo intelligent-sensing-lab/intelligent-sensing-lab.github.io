@@ -44,7 +44,7 @@ feature_row:
     url : "https://www.google.com/"
     btn_label: "Haoming Cai (2022)"
   - image_path: /assets/images/sachin.jpeg
-    url : "https://www.linkedin.com/in/sachin-shah-ai/"
+    url : "https://www.sachinshah.com"
     btn_label: "Sachin Shah (2022)"
   - image_path: /assets/images/sanjaya.png
     url : "https://sanjayaherath.me/"
@@ -83,7 +83,7 @@ feature_row5:
     excerpt: "next: Waymo"
 
 ---
-# The Supreme Leader
+# Leadership
 {% include feature_row id="feature_row0" %}
 
 # Grad Students
