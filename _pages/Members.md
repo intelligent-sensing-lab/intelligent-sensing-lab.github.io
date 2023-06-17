@@ -1,11 +1,11 @@
 ---
 title: " "
-categories:
-  - Post Formats
-tags:
-  - gallery
-  - Post Formats
-  - tiled
+# categories:
+#   - Post Formats
+# tags:
+#   - gallery
+#   - Post Formats
+#   - tiled
 permalink: /_pages/Members/
 feature_row0:
   - image_path: /assets/images/chris.jpg
