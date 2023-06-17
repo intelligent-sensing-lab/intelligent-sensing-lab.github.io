@@ -35,6 +35,7 @@ plugins:
 
 minimal_mistakes_skin: contrast
 title: Intelligent Sensing Lab
+logo: "/assets/images/logo.png"
 
 atom_feed:
   hide: true

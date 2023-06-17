@@ -1,4 +1,5 @@
 ---
+layout: single
 title: " "
 # categories:
 #   - Post Formats
